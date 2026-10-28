@@ -1,0 +1,6 @@
+{
+  "name": "Abu Mahir — Creative AI & Digital Services",
+  "description": "Official personal portfolio and digital services platform for Mufti Muhammad Nazir (Abu Mahir), offering graphic design, AI creative services, video editing, web development, and online Quran academy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
